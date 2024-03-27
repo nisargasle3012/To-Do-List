@@ -10,9 +10,8 @@ Features
 
 - Add tasks to the to-do list.
 - Mark tasks as complete.
-- Delete tasks from the list.
-- Responsive design for use on various devices.
-
+- Click on the task to delete it from the list.
+  
 Technologies Used
 
 - React: For the user interface and front-end logic.
